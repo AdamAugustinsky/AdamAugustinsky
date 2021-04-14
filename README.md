@@ -1,18 +1,31 @@
-# AdamAugustinsky
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+# Adam Augustinsky
 
- 
-![Adam Augustinsky's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adamaugustinsky&theme=dracula)
+## Contacts
 
-![Adam Augustinsky's github stats](https://github-readme-stats.vercel.app/api?username=adamaugustinsky&show_icons=true&theme=dracula)
+![https://www.linkedin.com/in/adamaugustinsky](https://img.shields.io/badge/-Adam%20Augustinsky-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)
+
+![mailto:adamaugustinsky@gmail.com](https://img.shields.io/badge/adamaugustinsky@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)
+
+### 📚  My Current Stacks
+
+![JS](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![TS](https://img.shields.io/badge/typescript-007ACC?&logo=TypeScript&style=for-the-badge&logoColor=white)
+![NODEJS](https://img.shields.io/badge/node.js-87C111?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-<p>
- <img  src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197"/>
+![JAVA](https://img.shields.io/badge/java-F89820?style=for-the-badge&logo=java&logoColor=white)
+![QUARKUS](https://img.shields.io/badge/quarkus-1775D3?style=for-the-badge&logo=quarkus&logoColor=white)
 
- <img  src="https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=4AB197" />
 
- <img src="https://img.shields.io/badge/Code-Expo-informational?style=flat&logo=expo&logoColor=white&color=4AB197" />
+![GIT](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![VSCODE](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
- <img src="https://img.shields.io/badge/Code-Quarkus-informational?style=flat&logo=quarkus&logoColor=white&color=4AB197" />
-</p>
+#
+
+![STATS](https://github-readme-stats.vercel.app/api?username=adamaugustinsky&count_private=true&show_icons=true&theme=dracula&height=165)
+
+![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=adamaugustinsky&&langs_count=8&layout=compact&theme=dracula&width=420)
+
+![CONTRIBUTIONS](https://github-readme-streak-stats.herokuapp.com/?user=adamaugustinsky&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10)
+
+![TROPHYS](https://github-profile-trophy.vercel.app/?username=adamaugustinsky&theme=dracula)
