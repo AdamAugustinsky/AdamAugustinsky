@@ -1,4 +1,4 @@
-# Adam Axel Augustinsky - Backend Developer
+# Adam Augustinsky - Backend Developer
 
 ## Contacts
 
