@@ -20,7 +20,7 @@
 ![GIT](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-# STATS
+## Stats
 
 ![STATS](https://github-readme-stats.vercel.app/api?username=adamaugustinsky&count_private=true&show_icons=true&theme=dracula&height=165)
 
