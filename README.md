@@ -21,7 +21,7 @@
 ![VSCODE](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Stats
-<div style="justify: center;" markdown="1">
+<div align="center" markdown="1">
 
 ![STATS](https://github-readme-stats.vercel.app/api?username=adamaugustinsky&count_private=true&show_icons=true&theme=dracula&height=165) ![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=adamaugustinsky&&langs_count=8&layout=compact&theme=dracula&width=420)
 
