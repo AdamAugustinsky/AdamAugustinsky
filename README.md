@@ -1,4 +1,4 @@
-# Adam Augustinsky
+# Adam Axel Augustinsky
 
 ## Contacts
 
