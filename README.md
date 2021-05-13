@@ -6,7 +6,7 @@
 
 [![mailto:adamaugustinsky@gmail.com](https://img.shields.io/badge/adamaugustinsky@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:adamaugustinsky@gmail.com)
 
-## 📚  My Current Stacks
+## 📚 Current Stacks
 
 ![JS](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![TS](https://img.shields.io/badge/typescript-007ACC?&logo=TypeScript&style=for-the-badge&logoColor=white)
