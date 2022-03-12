@@ -6,15 +6,20 @@
 
 [![mailto:adamaugustinsky@gmail.com](https://img.shields.io/badge/adamaugustinsky@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:adamaugustinsky@gmail.com)
 
-## 📚 Current Stacks
+## 📚 Current Stack
 
 ![TS](https://img.shields.io/badge/typescript-007ACC?&logo=TypeScript&style=for-the-badge&logoColor=white)
 ![NODEJS](https://img.shields.io/badge/node.js-87C111?style=for-the-badge&logo=node.js&logoColor=white)
 ![EXPRESSJS](https://img.shields.io/badge/express.js-87C111?style=for-the-badge&logo=express&logoColor=white)
+![PRISMA](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+![GOLANG](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
 ![GIT](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![NEOVIM](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+
+![ARCHBTW](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 ## Stats
 <div align="center" markdown="1">
