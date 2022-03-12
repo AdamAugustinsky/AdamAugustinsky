@@ -11,14 +11,11 @@
 ![JS](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![TS](https://img.shields.io/badge/typescript-007ACC?&logo=TypeScript&style=for-the-badge&logoColor=white)
 ![NODEJS](https://img.shields.io/badge/node.js-87C111?style=for-the-badge&logo=node.js&logoColor=white)
-
-
-![JAVA](https://img.shields.io/badge/java-F89820?style=for-the-badge&logo=java&logoColor=white)
-![QUARKUS](https://img.shields.io/badge/quarkus-1775D3?style=for-the-badge&logo=quarkus&logoColor=white)
+![EXPRESSJS](https://img.shields.io/badge/express.js-87C111?style=for-the-badge&logo=express&logoColor=white)
 
 
 ![GIT](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VSCODE](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NEOVIM](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 ## Stats
 <div align="center" markdown="1">
