@@ -20,14 +20,3 @@
 ![NEOVIM](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 ![ARCHBTW](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-
-## Stats
-<div align="center" markdown="1">
-
-![STATS](https://github-readme-stats.vercel.app/api?username=adamaugustinsky&count_private=true&show_icons=true&theme=dracula) ![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=adamaugustinsky&&langs_count=8&layout=compact&theme=dracula)
-
-![CONTRIBUTIONS](https://github-readme-streak-stats.herokuapp.com/?user=adamaugustinsky&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10)
-
-![TROPHYS](https://github-profile-trophy.vercel.app/?username=adamaugustinsky&theme=dracula)
-
-</div>
